@@ -13,10 +13,12 @@ Repositorio donde se encuentra el proyecto intermodular de 1ro de DAM
 ## Instrucciones de instalación y ejecución
 '''
 bash
+
 git clone https://github.com/Ferraan/proyecto-intermodular-dam-2025.git
+
 cd proyecto-intermodular-dam-2025
 
-
+'''
 ## Capturas de pantalla del proyecto funcionando
 
 ## Autor
